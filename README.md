@@ -64,3 +64,24 @@ sudo apt install -y nmap whatweb nikto python3 python3-pip
 
 # Paquets Python
 pip3 install flask
+```
+⚠️ Avertissement légal
+
+Cet outil est conçu UNIQUEMENT pour :
+
+    Des tests d'intrusion autorisés
+    Des environnements dont vous êtes propriétaire
+    Des CTF et laboratoires de cybersécurité
+    De la recherche en sécurité informatique
+
+L'utilisation non autorisée de cet outil est illégale et peut entraîner des poursuites judiciaires. Vous êtes seul responsable de votre usage.
+📝 Licence
+
+Ce projet est fourni à des fins éducatives et de test d'intrusion autorisé uniquement. Aucune garantie n'est fournie, expresse ou implicite. L'auteur décline toute responsabilité en cas d'usage illégal.
+🙏 Crédits
+
+    X01.EXE — Développement et maintenance
+    Plateforme HackerAI — Environnement de test
+    NIST NVD — API de vulnérabilités
+    Communauté open-source — Outils Nmap, WhatWeb, Nikto
+
